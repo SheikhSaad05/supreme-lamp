@@ -1,0 +1,14 @@
+{
+    "detection_model":{
+        "detection_threshold":0.35
+    },
+    "recognition_model":{
+        "confidence_threshold":0.20
+    },
+    "model_type":"buffalo_l",
+    "target_folder":"target_images",
+    "execution_mode":"CPUExecutionProvider",
+    "everyface":1,
+    "frame_skips":15,
+    "gpu_flag":0
+}
